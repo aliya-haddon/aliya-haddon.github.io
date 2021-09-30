@@ -2,7 +2,7 @@
 
 https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Arts%20&%20Sciences.png?raw=true
 
-
+I attend [Lehigh University](https://www1.lehigh.edu).
 
 
 ![Lehigh University Undergraduate Enrollment](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Arts%20&%20Sciences.png?raw=true)
