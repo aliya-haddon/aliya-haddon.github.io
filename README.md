@@ -1,6 +1,6 @@
 # aliya-haddon.github.io
 
-I am a junior at Lehigh University where I am a double major in International Relations and Journalism with a minor in French. 
+I am a junior at Lehigh University where I am a double major in International Relations and Journalism with a minor in French. On campus I am involved in The Brown and White and University Productions. I also hold the position of Vice President Public Relations in the Kappa Delta sororoity. I am passionate about growing a global perspective through connections, life long learning, and listening to people's stories. As a data journalism student I look forward to learning about effective ways to visualize data and make an impact. 
 
 ## Lehigh University Undergraduate Enrollment
 ![Lehigh University Undergraduate Enrollment](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Arts%20&%20Sciences.png?raw=true)
@@ -25,4 +25,5 @@ This is a bar chart created with Chartbuilder. This chart shows the different pe
 ### Lehigh University Ethnic Makeup
 ![Lehigh University Ethnic Makeup](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Lehigh_University_Ethnic_Makeup__Undergrad_Percent_chartbuilder-2.png?raw=true)
 Data can be found [here](https://www1.lehigh.edu/about/university-statistics)
+
 This is a bar chart created with Chartbuilder. This chart describes the makeup of Lehigh's undergraduate population by ethnicity. Over half of Lehigh's undergraduate population is white, with 10% or less making up other ethnicities. This data recognizes the lack of diversity on campus, and makes us question what is causing this disparity. 
