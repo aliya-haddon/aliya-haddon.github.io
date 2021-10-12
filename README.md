@@ -4,6 +4,8 @@ I am a junior at Lehigh University where I am a double major in International Re
 
 ## Lehigh University Undergraduate Enrollment
 ![Lehigh University Undergraduate Enrollment](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Arts%20&%20Sciences.png?raw=true)
+This graphic shows how students are divided between colleges within Lehigh University. It also shows the makeup of gender within each college. The College of Arts and Sciences is the largest college at Lehigh, and it is dominated by women, while the the College of Engineering & Application Sciences, College of Business, Arts/Engineering, and Intercollegiate Programs are dominated by men. There is a large disparity of women in Engineering & Application Sciences, which helps to explains why we continue to see jobs in STEM majorly occupied by males.
+
 
 ## Lehigh Softball Batting Averages: 2020
 ![Lehigh Softball Batting Averages: 2020](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Batting%20AVG.png?raw=true) 
