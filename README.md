@@ -1,5 +1,6 @@
 # aliya-haddon.github.io
 
+I am a junior at Lehigh University where I am a double major in International Relations and Journalism with a minor in French. 
 
 ## Lehigh University Undergraduate Enrollment
 ![Lehigh University Undergraduate Enrollment](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Arts%20&%20Sciences.png?raw=true)
