@@ -12,10 +12,10 @@ This graphic shows how students are divided between colleges within Lehigh Unive
 Data source can be found [here](https://lehighsports.com/sports/softball/stats/2020)
 
 
-(<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1h4A3lmZAN_ZCfSjHzJsbyHtpUO4xpKD7C-FC3IKyy38&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1h4A3lmZAN_ZCfSjHzJsbyHtpUO4xpKD7C-FC3IKyy38&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Museé d'Orsay
-![Museé d'Orsay Timeline](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1h4A3lmZAN_ZCfSjHzJsbyHtpUO4xpKD7C-FC3IKyy38&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1h4A3lmZAN_ZCfSjHzJsbyHtpUO4xpKD7C-FC3IKyy38&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 I found my information [here](https://en.wikipedia.org/wiki/Musée_d%27Orsay)
 
 
