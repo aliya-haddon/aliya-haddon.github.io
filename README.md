@@ -46,8 +46,15 @@ This is a bar chart created with Chartbuilder. This chart describes the makeup o
 
 
 ### Lehigh University Undergraduate Enrollment by College Over The Years
-[Lehigh University Undergraduate Enrollment by College Over The Years](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Lehigh_University_Undergraduate_Enrollment_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true)
+![Lehigh University Undergraduate Enrollment by College Over The Years](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Lehigh_University_Undergraduate_Enrollment_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true)
 
 Data source can be found [HERE](https://oirsa.lehigh.edu/university-profile)
 
 This line chart depicts the changes in student enrollment between 2017 and 2021 at Lehigh University. Enrollment in the College of Arts and Sciences has been on a constant rise in the past five years, while enrollment in the College of Engineering has dropped. We see a slight increase in student enrollment in Lehigh's College of Business, but this remains the college with the liest amount of student enrollment over all five years. 
+
+### World Happiness Report: Life Satisfaction x GDP
+![World Happiness Report: Life Satisfaction x GDP](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
+
+Data source can be found [HERE](https://ourworldindata.org/happiness-and-life-satisfaction)
+
+The Y axis represents life satisfaction in different countries around the world measured with the Cantril Ladder. The X axis represents GDP per capita in thousands for these respective countries. There is a positive correlation between life satisfaction and GDP, but this correlation is not extremely strong. FOr example, there are some data points on this chart with about 40K GDP and high life satisfaction, while life satisfaction was lower for a country with a GDP per capita of about 95K.
