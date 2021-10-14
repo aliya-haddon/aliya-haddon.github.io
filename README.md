@@ -13,7 +13,7 @@ This graphic shows how students are divided between colleges within Lehigh Unive
 
 
 
-### Lehigh Softball Batting Averages: 2020
+# Lehigh Softball Batting Averages: 2020
 ![Lehigh Softball Batting Averages: 2020](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Batting%20AVG.png?raw=true) 
 Data source can be found [HERE](https://lehighsports.com/sports/softball/stats/2020)
 
@@ -21,7 +21,7 @@ This infographic shows the batting averages of Lehigh's softball team. The playe
 
 
 
-### Museé d'Orsay
+# Museé d'Orsay
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1h4A3lmZAN_ZCfSjHzJsbyHtpUO4xpKD7C-FC3IKyy38&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 Data source can be found [HERE](https://en.wikipedia.org/wiki/Musée_d%27Orsay)
@@ -30,7 +30,7 @@ This timeline was made using TimelineJS.
 
 
 
-### Lehigh University 2019 Undergraduate Enrollment 
+# Lehigh University 2019 Undergraduate Enrollment 
 ![Lehigh University 2019 Undergraduate Enrollment](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Lehigh_University_2019_Undergraduate_Enrollment_2019_Percent_of_Undergraduate_Enrollment_chartbuilder-2.png?raw=true)
 Data source can be found [HERE](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
@@ -38,7 +38,7 @@ This is a bar chart created with Chartbuilder. This chart shows the different pe
 
 
 
-### Lehigh University Ethnic Makeup
+# Lehigh University Ethnic Makeup
 ![Lehigh University Ethnic Makeup](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Lehigh_University_Ethnic_Makeup__Undergrad_Percent_chartbuilder-2.png?raw=true)
 Data source can be found [HERE](https://www1.lehigh.edu/about/university-statistics)
 
@@ -46,14 +46,14 @@ This is a bar chart created with Chartbuilder. This chart describes the makeup o
 
 
 
-### Lehigh University Undergraduate Enrollment by College Over The Years
+# Lehigh University Undergraduate Enrollment by College Over The Years
 ![Lehigh University Undergraduate Enrollment by College Over The Years](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Lehigh_University_Undergraduate_Enrollment_Arts_&_Sciences_Business_Engineering_chartbuilder-2.png?raw=true)
 
 Data source can be found [HERE](https://oirsa.lehigh.edu/university-profile)
 
 This line chart depicts the changes in student enrollment between 2017 and 2021 at Lehigh University. Enrollment in the College of Arts and Sciences has been on a constant rise in the past five years, while enrollment in the College of Engineering has dropped. We see a slight increase in student enrollment in Lehigh's College of Business, but this remains the college with the liest amount of student enrollment over all five years. 
 
-### World Happiness Report: Life Satisfaction x GDP
+# World Happiness Report: Life Satisfaction x GDP
 ![World Happiness Report: Life Satisfaction x GDP](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
 
 Data source can be found [HERE](https://ourworldindata.org/happiness-and-life-satisfaction)
