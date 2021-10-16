@@ -63,7 +63,7 @@ The Y axis represents life satisfaction in different countries around the world 
 
 
 
-#2020 Unemployment Rate by Month
+# 2020 Unemployment Rate by Month
 ![2020 Unemployment Rates](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/2020_Unemployment_Rate_by_Month_Unemployment_Rate_chartbuilder-2.png?raw=true)
 
 Data Source can be found [HERE](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)
