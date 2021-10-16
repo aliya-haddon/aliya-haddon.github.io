@@ -61,8 +61,11 @@ Data source can be found [HERE](https://ourworldindata.org/happiness-and-life-sa
 
 The Y axis represents life satisfaction in different countries around the world measured with the Cantril Ladder. The X axis represents GDP per capita in thousands for these respective countries. There is a positive correlation between life satisfaction and GDP, but this correlation is not extremely strong. FOr example, there are some data points on this chart with about 40K GDP and high life satisfaction, while life satisfaction was lower for a country with a GDP per capita of about 95K.
 
+
+
 #2020 Unemployment Rate by Month
-![2020 Unemployment Rates](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/2020_Unemployment_Rate_by_Month_Unemployment_Rate_chartbuilder.png?raw=true)
+![2020 Unemployment Rates](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/2020_Unemployment_Rate_by_Month_Unemployment_Rate_chartbuilder-2.png?raw=true)
 
 Data Source can be found [HERE](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)
+
 This chart shows unemployment rates across the United States during the entire year of 2020. This is especially interesting because we can see the affects that the pandemic had on unemployment starting in March of 2020. The trend that this chart follows shows us how unemployment rose drastically when the pandemic hit. After the initial rise in unemployment that is seen during March, it begins on a negative slope back down, yet remains higher than the unemployment rate was before COVID-19.
