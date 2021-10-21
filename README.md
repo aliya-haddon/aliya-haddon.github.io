@@ -70,5 +70,8 @@ Data Source can be found [HERE](https://www.bls.gov/charts/employment-situation/
 
 This chart shows unemployment rates across the United States during the entire year of 2020. This is especially interesting because we can see the affects that the pandemic had on unemployment starting in March of 2020. The trend that this chart follows shows us how unemployment rose drastically when the pandemic hit. After the initial rise in unemployment that is seen during March, it begins on a negative slope back down, yet remains higher than the unemployment rate was before COVID-19.
 
-
+# 2019 World's Top Cycling Cities
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1DskJUhaq2foamdvqWCfn3jOYhv6fHOi2" width="640" height="480"></iframe>
+
+20 most bike-friendly cities on the planet, ranked. by [Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/
+more)
