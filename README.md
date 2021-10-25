@@ -75,3 +75,8 @@ This chart shows unemployment rates across the United States during the entire y
 
 20 most bike-friendly cities on the planet, ranked. by [Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/
 more)
+
+# Top Destination Cities Worldwide
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1TYTqBf5pw4pETvcIBJu7h30lMYuNe0sR" width="640" height="480"></iframe>
+
+This map was made by Aliya Haddon with information from [Culture Trip](https://theculturetrip.com/asia/articles/the-10-most-visited-cities-in-the-world/). The data used came from [MasterCard's Global Destination Cities Index](https://newsroom.mastercard.com/wp-content/uploads/2015/06/MasterCard-GDCI-2015-Final-Report1.pdf). I chose this topic to focus on because I love to travel and hope to gain many more traveling experiences in life to expand my view of the world. This was interesting to look into because I was able to compare my perspective with the reality of where other people are traveling to often. London, UK is the most visited city in the world with 15.29 million povernight visitors in 2015. 
