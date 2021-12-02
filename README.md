@@ -1,6 +1,6 @@
  aliya-haddon.github.io
 # Aliya Haddon
-! [Profile Pic](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/IMG_0009.jpeg?raw=true)
+![Profile Pic](https://github.com/aliya-haddon/aliya-haddon.github.io/blob/main/IMG_0009.jpeg?raw=true)
 
 I am a junior at Lehigh University where I am a double major in International Relations and Journalism with a minor in French. On campus I am involved in The Brown and White and University Productions. I also hold the position of Vice President Public Relations in the Kappa Delta sororoity. I am passionate about growing a global perspective through connections, life long learning, and listening to people's stories. As a data journalism student I look forward to learning about effective ways to visualize data and make an impact. 
 
